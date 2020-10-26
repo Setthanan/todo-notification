@@ -3,7 +3,7 @@ Todo is a microservice-based application.
 It is created by Natawut Nupairoj for 2110415 Software Defined Systems at Department of Computer Engineering, Chulalongkorn University.
 
 ## Docker
-To build the container for this module, use the following command:
+To build the container for this module, use the following command::
 ```
 docker build -t todo-notification:release-1 .
 ```
